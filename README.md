@@ -2,4 +2,4 @@
 this is training repository
 
 ## introduction
-Git Trainig Class
+Git Trainig Class changeman log updated
